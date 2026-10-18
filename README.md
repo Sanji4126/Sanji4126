@@ -1,75 +1,86 @@
 <div align="center">
 
-<img src="./banner.png" alt="PILA - Backend Engineer" width="100%" />
+<img src="./banner.png" alt="PILA - Backend Developer" width="100%" />
 
-# Hi there, I'm KHORN PILA 👋
-### Aspiring Web Backend Engineer
+<a href="https://github.com/Sanji4126">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F5C518&center=true&vCenter=true&width=640&lines=Backend+Developer;PHP+Laravel+%C2%B7+C%23+ASP.NET+%C2%B7+Node.js;MySQL+%C2%B7+MongoDB+%C2%B7+Redis;Cooking+APIs%2C+serving+data" alt="typing intro" />
+</a>
 
-[![Status](https://img.shields.io/badge/Status-Seeking_Backend_Internship-3178C6?style=for-the-badge&logo=target&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-khornpila23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khornpila23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sanji4126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanji4126)
+<br/><br/>
+
+[![Status](https://img.shields.io/badge/STATUS-SEEKING_BACKEND_INTERNSHIP-f5c518?style=for-the-badge&labelColor=07080d)](#)
+[![Email](https://img.shields.io/badge/EMAIL-khornpila23%40gmail.com-4aa8ff?style=for-the-badge&logo=gmail&logoColor=4aa8ff&labelColor=07080d)](mailto:khornpila23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-Sanji4126-f5c518?style=for-the-badge&logo=github&logoColor=f5c518&labelColor=07080d)](https://github.com/Sanji4126)
 
 </div>
 
 ---
 
-### 👨‍💻 about
+### about
 
-Aspiring **Web Backend Engineer** passionate about designing robust server-side architectures, RESTful APIs, and scalable database systems. Focused on building production-grade services with **PHP (Laravel)**, **C# (.NET)**, and **JavaScript / Node.js**, backed by **MySQL** and **MongoDB**. Actively preparing and applying for **Web Backend Engineering Internship** opportunities.
+Designing robust server-side architectures, RESTful APIs and scalable database systems. I build production-grade services with **PHP (Laravel)**, **C# (.NET)** and **JavaScript / Node.js**, backed by **MySQL** and **MongoDB**, and I'm applying for a **Web Backend Engineering internship**.
 
-* 🔭 **Currently building:** Scalable RESTful API backends, auth microservices, and database optimizations.
-* 💡 **Backend focus:** Database Normalization & Indexing, Query Optimization, Caching with Redis, and Clean Architecture.
-* 🎯 **Goal:** Securing a challenging **Web Backend Internship** where I can contribute to real-world production systems.
-* 📫 **Contact me:** [khornpila23@gmail.com](mailto:khornpila23@gmail.com)
+> **Building:** REST API backends, auth services, query optimization
+> **Focus:** normalization and indexing, Redis caching, clean architecture
 
 ---
 
-### ⚡ core skills
+### today's menu
+
+| Course | Ingredients |
+| :--- | :--- |
+| **Main course** | Laravel · ASP.NET Core |
+| **Sauces** | MySQL · MongoDB |
+| **Seasoning** | JavaScript · Node.js |
+| **Garnish** | Redis · Docker |
+
+---
+
+### core skills
 
 <p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,js,ts,nodejs,mysql,mongodb,redis,docker,linux,git,postman" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,js,ts,nodejs,mysql,mongodb,redis,git,postman,docker,linux&theme=dark" />
 </p>
 
-* **languages:** `PHP` • `C#` • `JavaScript (ES6+)` • `TypeScript` • `SQL` • `HTML5 / CSS3`
-* **backend:** `Laravel` • `ASP.NET Core` • `Node.js` • `Express.js` • `RESTful APIs` • `MVC Architecture` • `JWT & OAuth2`
-* **databases & storage:** `MySQL` • `MongoDB` • `Redis (Caching & Pub/Sub)` • `Eloquent ORM` • `Entity Framework Core`
-* **tools & devops:** `Git` • `GitHub` • `Docker` • `Postman` • `Linux (Bash)` • `Nginx / Apache` • `Composer` • `npm`
+```yaml
+backend  : PHP · Laravel · C# · ASP.NET Core · Node.js · Express · REST · JWT/OAuth2
+database : MySQL · MongoDB · Eloquent ORM · Entity Framework Core
+devops   : Git · GitHub · Postman · Linux (Bash) · Docker
+status   : seeking web backend internship
+```
 
 ---
 
-### 🚀 featured backend projects
+### featured backend projects
 
-| Project | Highlights & Architecture | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **E-Commerce REST API Engine** | Full-featured backend featuring JWT authentication, role-based access control (RBAC), database transaction handling, product inventory locking, and payment webhook integrations. | `PHP` `Laravel` `MySQL` `Redis` | [GitHub](https://github.com/Sanji4126) • [API Docs](https://github.com/Sanji4126) |
-| **Enterprise Management & Inventory API** | Scalable service utilizing Clean Architecture and Repository Pattern. Features document storage with MongoDB, automated data validation, and Docker containerization. | `C#` `ASP.NET Core` `MongoDB` `Docker` | [GitHub](https://github.com/Sanji4126) • [API Docs](https://github.com/Sanji4126) |
-| **Real-time Event & Notification Gateway** | High-throughput asynchronous service processing live notifications, Redis caching for rapid session lookups, and token-bucket rate limiting. | `JavaScript` `Node.js` `Express` `MongoDB` `Redis` | [GitHub](https://github.com/Sanji4126) • [API Docs](https://github.com/Sanji4126) |
+| Case | Highlights | Stack |
+| :--- | :--- | :--- |
+| **E-Commerce REST API Engine** | JWT auth, RBAC, transactions, inventory locking, payment webhooks | `PHP` `Laravel` `MySQL` `Redis` |
+| **Enterprise Inventory API** | Clean Architecture, repository pattern, MongoDB documents, Docker | `C#` `ASP.NET Core` `MongoDB` `Docker` |
+| **Event & Notification Gateway** | Async live notifications, Redis session cache, token-bucket rate limiting | `Node.js` `Express` `MongoDB` `Redis` |
+
+<!-- Replace each project name with a link to the real repo once it is pushed. -->
 
 ---
 
-### 📊 github stats & activity
+### github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanji4126&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="KHORN PILA's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanji4126&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Sanji4126&show_icons=true&hide_border=false&bg_color=07080d&title_color=f5c518&icon_color=4aa8ff&text_color=e8e6df&border_color=222636&count_private=true" alt="stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanji4126&layout=compact&bg_color=07080d&title_color=f5c518&text_color=e8e6df&border_color=222636" alt="top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Sanji4126&background=07080D&ring=F5C518&fire=4AA8FF&currStreakLabel=F5C518&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=222636&border=222636" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanji4126&theme=tokyonight&hide_border=true&background=0d1117" height="175" alt="KHORN PILA's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanji4126&bg_color=07080d&color=f5c518&line=f5c518&point=ffffff&area=true&area_color=4aa8ff&title_color=f5c518&hide_border=true&radius=8" width="100%" alt="activity graph" />
 </div>
-
-<!-- Optional Activity Graph (if Vercel instance is active):
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanji4126&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
--->
 
 ---
 
 <div align="center">
-  <sub>⚡ Designed for Web Backend Software Engineering • Built by KHORN PILA</sub>
+  <sub>designed for web backend engineering · built by KHORN PILA</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c518,100:07080d&height=100&section=footer" width="100%" alt="footer"/>
 </div>
