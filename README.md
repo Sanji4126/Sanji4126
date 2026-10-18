@@ -7,7 +7,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Seeking_Backend_Internship-3178C6?style=for-the-badge&logo=target&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-khornpila23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khornpila23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-khornpila-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khornpila)
+[![GitHub](https://img.shields.io/badge/GitHub-KHORNPILA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KHORNPILA)
 
 </div>
 
@@ -43,28 +43,28 @@ Aspiring **Web Backend Engineer** passionate about designing robust server-side 
 
 | Project | Highlights & Architecture | Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **E-Commerce REST API Engine** | Full-featured backend featuring JWT authentication, role-based access control (RBAC), database transaction handling, product inventory locking, and payment webhook integrations. | `PHP` `Laravel` `MySQL` `Redis` | [GitHub](https://github.com/khornpila) • [API Docs](https://github.com/khornpila) |
-| **Enterprise Management & Inventory API** | Scalable service utilizing Clean Architecture and Repository Pattern. Features document storage with MongoDB, automated data validation, and Docker containerization. | `C#` `ASP.NET Core` `MongoDB` `Docker` | [GitHub](https://github.com/khornpila) • [API Docs](https://github.com/khornpila) |
-| **Real-time Event & Notification Gateway** | High-throughput asynchronous service processing live notifications, Redis caching for rapid session lookups, and token-bucket rate limiting. | `JavaScript` `Node.js` `Express` `MongoDB` `Redis` | [GitHub](https://github.com/khornpila) • [API Docs](https://github.com/khornpila) |
+| **E-Commerce REST API Engine** | Full-featured backend featuring JWT authentication, role-based access control (RBAC), database transaction handling, product inventory locking, and payment webhook integrations. | `PHP` `Laravel` `MySQL` `Redis` | [GitHub](https://github.com/KHORNPILA) • [API Docs](https://github.com/KHORNPILA) |
+| **Enterprise Management & Inventory API** | Scalable service utilizing Clean Architecture and Repository Pattern. Features document storage with MongoDB, automated data validation, and Docker containerization. | `C#` `ASP.NET Core` `MongoDB` `Docker` | [GitHub](https://github.com/KHORNPILA) • [API Docs](https://github.com/KHORNPILA) |
+| **Real-time Event & Notification Gateway** | High-throughput asynchronous service processing live notifications, Redis caching for rapid session lookups, and token-bucket rate limiting. | `JavaScript` `Node.js` `Express` `MongoDB` `Redis` | [GitHub](https://github.com/KHORNPILA) • [API Docs](https://github.com/KHORNPILA) |
 
 ---
 
 ### 📊 github stats & activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khornpila&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="PILA's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khornpila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KHORNPILA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="PILA's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHORNPILA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="175" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khornpila&theme=tokyonight&hide_border=true&background=0d1117" height="175" alt="PILA's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHORNPILA&theme=tokyonight&hide_border=true&background=0d1117" height="175" alt="PILA's GitHub Streak" />
 </div>
 
 <!-- Optional Activity Graph (if Vercel instance is active):
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khornpila&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHORNPILA&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 -->
 
