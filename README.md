@@ -28,7 +28,7 @@ Designing robust server-side architectures, RESTful APIs and scalable database s
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,js,ts,nodejs,mysql,mongodb,redis,git,postman,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,js,ts,nodejs,mysql,mongodb,git,postman,docker,linux&theme=dark" />
 </p>
 
 ```yaml
