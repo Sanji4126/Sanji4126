@@ -18,21 +18,10 @@
 
 ### about
 
-Designing robust server-side architectures, RESTful APIs and scalable database systems. I build production-grade services with **PHP (Laravel)**, **C# (.NET)** and **JavaScript / Node.js**, backed by **MySQL** and **MongoDB**, and I'm applying for a **Web Backend Engineering internship**.
+Designing robust server-side architectures, RESTful APIs and scalable database systems. I build production-grade services with **PHP (Laravel)**, **C# (.NET)** and **JavaScript / Node.js**, backed by **MySQL** and **MongoDB**, and I'm applying for a **Web Backend internship**.
 
 > **Building:** REST API backends, auth services, query optimization
 > **Focus:** normalization and indexing, Redis caching, clean architecture
-
----
-
-### today's menu
-
-| Course | Ingredients |
-| :--- | :--- |
-| **Main course** | Laravel · ASP.NET Core |
-| **Sauces** | MySQL · MongoDB |
-| **Seasoning** | JavaScript · Node.js |
-| **Garnish** | Redis · Docker |
 
 ---
 
@@ -45,7 +34,6 @@ Designing robust server-side architectures, RESTful APIs and scalable database s
 ```yaml
 backend  : PHP · Laravel · C# · ASP.NET Core · Node.js · Express · REST · JWT/OAuth2
 database : MySQL · MongoDB · Eloquent ORM · Entity Framework Core
-devops   : Git · GitHub · Postman · Linux (Bash) · Docker
 status   : seeking web backend internship
 ```
 
